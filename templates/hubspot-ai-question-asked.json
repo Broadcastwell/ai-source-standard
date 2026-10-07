@@ -1,0 +1,9 @@
+{
+  "name": "ai_question_asked",
+  "label": "AI question asked",
+  "groupName": "contactinformation",
+  "type": "string",
+  "fieldType": "textarea",
+  "description": "AI Source Standard v1. The question the contact says they asked an AI assistant, as submitted. De-identified before any report.",
+  "formField": true
+}

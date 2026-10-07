@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite the AI Source Standard when adopting or adapting it."
+type: dataset
+title: "AI Source Standard v1"
+version: "1.0"
+date-released: "2026-10-07"
+authors:
+  - name: "Broadcastwell LLC"
+    website: "https://broadcastwell.com"
+license: CC-BY-4.0
+url: "https://app.broadcastwell.com/standard/ai-source"
+repository-code: "https://github.com/Broadcastwell/ai-source-standard"
+abstract: "An open specification for optional self-reported AI sources, CRM properties, analytics classes, de-identification and dated aggregate reporting."

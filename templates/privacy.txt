@@ -1,0 +1,3 @@
+AI Source Standard v1.0. CC BY 4.0, Broadcastwell.
+
+Our forms ask, optionally, how you heard about us and what you asked an AI assistant before visiting; we store the answer with your enquiry, remove names and contact details from the question before it is used in reporting, and set no additional cookie for this.

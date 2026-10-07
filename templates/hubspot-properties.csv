@@ -1,0 +1,3 @@
+"standard_version","name","label","group","type","description","ordered_options"
+"1.0","ai_source","AI source","Contact information","select","AI Source Standard v1. Self-reported by the contact on a form. Never edited by hand.","ChatGPT; Claude; Perplexity; Google AI Overviews or AI Mode; Microsoft Copilot; Google search; LinkedIn; A colleague or partner; An event; Other"
+"1.0","ai_question_asked","AI question asked","Contact information","textarea","AI Source Standard v1. The question the contact says they asked an AI assistant, as submitted. De-identified before any report.",""

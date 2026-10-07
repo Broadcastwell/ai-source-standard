@@ -1,0 +1,71 @@
+{
+  "name": "ai_source",
+  "label": "AI source",
+  "groupName": "contactinformation",
+  "type": "enumeration",
+  "fieldType": "select",
+  "description": "AI Source Standard v1. Self-reported by the contact on a form. Never edited by hand.",
+  "formField": true,
+  "options": [
+    {
+      "label": "ChatGPT",
+      "value": "ChatGPT",
+      "displayOrder": 0,
+      "hidden": false
+    },
+    {
+      "label": "Claude",
+      "value": "Claude",
+      "displayOrder": 1,
+      "hidden": false
+    },
+    {
+      "label": "Perplexity",
+      "value": "Perplexity",
+      "displayOrder": 2,
+      "hidden": false
+    },
+    {
+      "label": "Google AI Overviews or AI Mode",
+      "value": "Google AI Overviews or AI Mode",
+      "displayOrder": 3,
+      "hidden": false
+    },
+    {
+      "label": "Microsoft Copilot",
+      "value": "Microsoft Copilot",
+      "displayOrder": 4,
+      "hidden": false
+    },
+    {
+      "label": "Google search",
+      "value": "Google search",
+      "displayOrder": 5,
+      "hidden": false
+    },
+    {
+      "label": "LinkedIn",
+      "value": "LinkedIn",
+      "displayOrder": 6,
+      "hidden": false
+    },
+    {
+      "label": "A colleague or partner",
+      "value": "A colleague or partner",
+      "displayOrder": 7,
+      "hidden": false
+    },
+    {
+      "label": "An event",
+      "value": "An event",
+      "displayOrder": 8,
+      "hidden": false
+    },
+    {
+      "label": "Other",
+      "value": "Other",
+      "displayOrder": 9,
+      "hidden": false
+    }
+  ]
+}
