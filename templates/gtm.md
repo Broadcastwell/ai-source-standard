@@ -1,5 +1,7 @@
 # Google Tag Manager recipe, AI Source Standard v1.0
 
+**Test status: documentation checked; live installation not tested.** Broadcastwell does not run this platform in the audited reference stack. Local fixture checks do not establish platform import acceptance or a live installation. An authorized person must verify the recipe in the adopter's existing system before publishing that installation.
+
 CC BY 4.0, Broadcastwell. Use an existing client-owned web container only. No new tracking service, cookie, script URL or external request is introduced.
 
 1. Export the current workspace for a client-held rollback. In Admin, Import Container, select gtm-ai-source-v1.json and an existing unpublished workspace. Select Merge. Inspect the change preview: three variables, one DOM Ready trigger and one Custom HTML tag. Do not overwrite the container or alter unrelated tags.

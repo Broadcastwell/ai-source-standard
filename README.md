@@ -8,6 +8,8 @@ A self-reported answer stays separate from a browser referrer class. Google AI O
 
 The templates configure systems the adopter already runs. They add no hosted Broadcastwell tracker, new account or paid service. Read each recipe's verification record before applying it. Documentation checks and local fixture tests are distinct from live import acceptance and installation.
 
+GA4, Google Tag Manager and Salesforce: **documentation checked; live installation not tested.** The HubSpot guide records the separate verified configuration and pending end-to-end checks.
+
 ## Validation
 
 Use Node.js 24 or later to run the included fixture checks:

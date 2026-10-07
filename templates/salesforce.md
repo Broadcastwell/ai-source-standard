@@ -1,5 +1,7 @@
 # Salesforce recipe, AI Source Standard v1.0
 
+**Test status: documentation checked; live installation not tested.** Broadcastwell does not run this platform in the audited reference stack. Local fixture checks do not establish platform import acceptance or a live installation. An authorized person must verify the recipe in the adopter's existing system before publishing that installation.
+
 CC BY 4.0, Broadcastwell. Documentation checked 7 October 2026. The client's administrator applies this in its own organization, beginning in its existing sandbox. Broadcastwell creates no Salesforce account, connection or credential.
 
 <table><thead><tr><th>Object</th><th>Label</th><th>API name</th><th>Type and rules</th></tr></thead><tbody><tr><td>Lead</td><td>AI source</td><td>AI_Source__c</td><td>Picklist, exact ten v1 options, blank default, optional</td></tr><tr><td>Lead</td><td>AI question asked</td><td>AI_Question_Asked__c</td><td>Long Text Area, 2,000 characters, optional</td></tr></tbody></table>

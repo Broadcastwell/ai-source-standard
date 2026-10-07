@@ -15,7 +15,7 @@
 
 ## Verification record
 
-Documentation review completed 7 October 2026. Classifier and form fixtures are tested locally. Import acceptance and live installation must be recorded separately for each actual platform. At authoring, own-stack portal, form and analytics verification is still pending; do not publish an installation claim before it passes. Salesforce and GA4 recipes are not claimed installed in Broadcastwell systems. No new platform account or container may be created for a test.
+Documentation review completed 7 October 2026. Classifier and form fixtures are tested locally. Import acceptance and live installation must be recorded separately for each actual platform. GA4, Google Tag Manager and Salesforce: documentation checked; live installation not tested. Broadcastwell's audited stack uses Framer analytics and HubSpot, with no GA4, Tag Manager or Salesforce test environment. HubSpot properties and the separately approved three-field intake form were published and verified on 7 October 2026; the website connection and controlled submission are still pending. Do not claim end-to-end installation before those checks pass. No new platform account or container may be created for a test.
 
 For GTM, use Admin, Import Container, Choose container file, select an existing workspace, and choose Merge. Inspect Preview and Confirm before importing. Never choose Overwrite. Inspect every resulting variable and tag, run Preview on an owned test form, and have the client's authorized administrator publish. The export's zero IDs are portable metadata, not live resource identifiers. If the importer rejects the recipe, use the documented manual variable/tag steps and record the exact error. Do not call a parsed file an accepted import.
 

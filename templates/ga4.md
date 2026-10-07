@@ -1,5 +1,7 @@
 # GA4 recipe, AI Source Standard v1.0
 
+**Test status: documentation checked; live installation not tested.** Broadcastwell does not run this platform in the audited reference stack. Local fixture checks do not establish platform import acceptance or a live installation. An authorized person must verify the recipe in the adopter's existing system before publishing that installation.
+
 CC BY 4.0, Broadcastwell. Documentation checked 7 October 2026. Use the client's existing GA4 property as an invited Editor, or let its admin apply the steps.
 
 In Admin, Data display, Channel groups, create a custom copy of the default group named AI Source Standard v1. Add a channel named AI referred. Set Source to matches regex and use the anchored expression below. Put it above Referral and other rules that could match the same source. Preserve every other channel and leave the primary channel group unchanged unless the client explicitly approves that change. Save the custom group.
