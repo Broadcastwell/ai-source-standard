@@ -11,6 +11,8 @@ CC BY 4.0, Broadcastwell. Documentation checked 7 October 2026.
 
 The workflow writes a note, not the properties. Re-enrolment off means one qualifying note per contact; count period leads from dated submission records. Raw questions stay in the client's CRM and are reviewed before reporting.
 
+Before testing, ask the portal administrator to check existing automatic company association and enrollment settings. HubSpot can create a company from a new contact's email domain even when the form contains no company property. Agree the test identity and cleanup scope first. Do not change portal-wide settings or remove a pre-existing company as part of installing these two fields. Source, read 7 October 2026: [HubSpot automatic company association](https://knowledge.hubspot.com/object-settings/automatically-create-and-associate-companies-with-contacts).
+
 ## Reference screenshots
 
 These screenshots show Broadcastwell's own configuration on 7 October 2026, without contact records. Screens before Create document the reviewed settings; the publication confirmation documents the saved form. The optional note workflow was not available on this portal's free plan, so there is no execution screenshot and no live workflow test claim.
