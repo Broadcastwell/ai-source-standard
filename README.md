@@ -8,7 +8,9 @@ A self-reported answer stays separate from a browser referrer class. Google AI O
 
 The templates configure systems the adopter already runs. They add no hosted Broadcastwell tracker, new account or paid service. Read each recipe's verification record before applying it. Documentation checks and local fixture tests are distinct from live import acceptance and installation.
 
-GA4, Google Tag Manager and Salesforce: **documentation checked; live installation not tested.** The HubSpot guide records the separate verified configuration and pending end-to-end checks.
+GA4, Google Tag Manager and Salesforce: **documentation checked; live installation not tested.** The HubSpot guide records verified configuration and live form delivery, including verified restorable removal of the single test contact; human referral verification is separate.
+
+[Broadcastwell's own dated record](https://app.broadcastwell.com/proof/broadcastwell) follows the same missing-source rules. Read its installation state and source limitations alongside the figures; it is not a claim that every part of the standard has been verified.
 
 ## Validation
 
