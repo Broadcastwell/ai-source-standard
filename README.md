@@ -1,5 +1,7 @@
 # AI Source Standard v1
 
+Published release v1.0: [DOI 10.5281/zenodo.23225776](https://doi.org/10.5281/zenodo.23225776). [Release source and templates](https://github.com/Broadcastwell/ai-source-standard/tree/v1.0).
+
 An open specification for recording AI-assisted buyers in existing forms, CRM and analytics. Version 1.0, 7 October 2026. CC BY 4.0, attribution to Broadcastwell. Adopt it without asking.
 
 Read [STANDARD.md](STANDARD.md) for the exact optional source choices, CRM property names, analytics rules, evidence labels and privacy controls. The [templates](templates/README.md) contain HubSpot property definitions, Salesforce steps, GA4 rules, a Tag Manager configuration and an HTML fieldset.

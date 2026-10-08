@@ -3,6 +3,7 @@ message: "Please cite the AI Source Standard when adopting or adapting it."
 type: dataset
 title: "AI Source Standard v1"
 version: "1.0"
+doi: "10.5281/zenodo.23225776"
 date-released: "2026-10-07"
 authors:
   - name: "Broadcastwell LLC"
